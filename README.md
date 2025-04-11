@@ -20,7 +20,7 @@ Repositorio con mis prácticas del curso de **HTML y CSS** de [Soy Dalto](https:
 ---
 
 ## 📂 Estructura
-
+`
 Aprendiendo_HTML_CSS/
 ├── card/                # Práctica de card básica
 │   ├── index.html
@@ -29,6 +29,7 @@ Aprendiendo_HTML_CSS/
 │   ├── index.html
 │   └── style.css
 └── README.md
+`
 
 ---
 
