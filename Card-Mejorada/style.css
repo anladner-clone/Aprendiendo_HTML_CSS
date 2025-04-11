@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.card{
+    margin: auto;
+    margin-top: 40px;
+    padding: 40px;
+    font-family: Verdana, monospace;
+    background: #E0CA3C;
+    color: #2D3047;
+    border-radius: 40px;
+    text-align: center;
+    width: 500px;
+    box-shadow: 0 0 30px #000b;
+}
+
+img{
+    width: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    box-shadow: 0 0 10px #000b;
+}
+
+h2{
+    font-size: 42px;
+    font-weight: 700;
+}
+
+h3{
+    font-size: 14px;
+    font-weight: 300;
+    color: #234b;
+    font-family: monospace;
+}
+
+.description{
+    margin-top: 40px;
+    width: 50%;
+    width: auto;
+    text-align: justify;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.card-foot{
+    margin-top: 10px;
+    text-align: left;
+}
+
+a{
+    font-size: 14px;
+    font-family: monospace;
+    color: #048A81;
+    text-decoration: none;
+}
