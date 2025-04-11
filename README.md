@@ -1,6 +1,3 @@
-Aquí tienes tu **README.md** personalizado y listo para copiar y pegar en tu repositorio:
-
-```markdown
 # 🎨 Aprendiendo_HTML_CSS - Prácticas del Curso de Soy Dalto
 
 [![Licencia: MIT](https://img.shields.io/badge/Licencia-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -24,24 +21,15 @@ Repositorio con mis prácticas del curso de **HTML y CSS** de [Soy Dalto](https:
 ---
 
 ## 📂 Estructura
-```
+
 Aprendiendo_HTML_CSS/
-├── card-sencilla/       # Práctica de card básica
+├── card/                # Práctica de card básica
 │   ├── index.html
 │   └── style.css
 ├── card-mejorada/       # Versión mejorada con efectos
 │   ├── index.html
 │   └── style.css
 └── README.md
-```
-
----
-
-## 🎨 Prácticas realizadas
-| Práctica | Descripción | Vista previa |
-|----------|-------------|--------------|
-| [Card Sencilla](/card-sencilla) | Versión inicial con HTML y CSS básico | <img src="/card-sencilla/preview.jpg" width="100"> |
-| [Card Mejorada](/card-mejorada) | Con efectos hover y diseño responsive | *Próximamente GIF* |
 
 ---
 
@@ -50,6 +38,7 @@ Aprendiendo_HTML_CSS/
 ```bash
 git clone https://github.com/ArielLadner/Aprendiendo_HTML_CSS.git
 ```
+
 2. Abre cualquier práctica en tu navegador:
 - Haz doble clic en el archivo `index.html` de la carpeta que quieras ver.
 
@@ -63,29 +52,10 @@ git clone https://github.com/ArielLadner/Aprendiendo_HTML_CSS.git
 
 ## 📧 Contacto
 **Ariel Ladner**  
-✉️ [ari2006ladner@gmail.com](mailto:ari2006ladner@gmail.com)  
-🐦 [@TuTwitter](https://twitter.com/TuTwitter) *(opcional)*  
+✉️ [ari2006ladner@gmail.com](mailto:ari2006ladner@gmail.com)
 
 > ¿Encontraste un error o tienes sugerencias? ¡Abre un issue o envía un PR!
 
 ---
 
 ⭐ **¿Te gustó este repositorio?** Déjale una estrella para apoyar mi aprendizaje.
-```
-
-### 🔥 Recomendaciones adicionales:
-1. **Para las imágenes preview**:
-   - Crea una carpeta `preview.jpg` dentro de cada práctica (ej: `/card-sencilla/preview.jpg`)
-   - Tamaño recomendado: 300x200px
-
-2. **Cuando subas el GIF**:
-   - Reemplaza `*Próximamente GIF*` con:
-     ```markdown
-     ![Demo](/card-mejorada/demo.gif)
-     ```
-
-3. **Para la licencia MIT**:
-   - Crea un archivo `LICENSE` en la raíz del repositorio con este contenido:
-     https://opensource.org/licenses/MIT
-
-¿Necesitas ayuda con algo más del repositorio? 😊
