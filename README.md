@@ -7,7 +7,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 Repositorio con mis prácticas del curso de **HTML y CSS** de [Soy Dalto](https://www.youtube.com/c/soydalto).  
-✨ Aquí encontrarás mi progreso aprendiendo desarrollo web frontend.
+✨ Aquí encontrarás mi progreso aprendiendo desarrollo web.
 
 ---
 
