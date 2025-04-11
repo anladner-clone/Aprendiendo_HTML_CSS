@@ -11,13 +11,6 @@ Repositorio con mis prácticas del curso de **HTML y CSS** de [Soy Dalto](https:
 
 ---
 
-## 📌 Contenido
-1. [Estructura del repositorio](#-estructura)
-2. [Agradecimientos](#-agradecimientos)
-3. [Contacto](#-contacto)
-
----
-
 ## 🖥️ Cómo visualizar
 1. Clona el repositorio:
 ```bash
