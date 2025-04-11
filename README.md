@@ -13,23 +13,8 @@ Repositorio con mis prácticas del curso de **HTML y CSS** de [Soy Dalto](https:
 
 ## 📌 Contenido
 1. [Estructura del repositorio](#-estructura)
-2. [Cómo visualizar](#-cómo-visualizar)
-3. [Agradecimientos](#-agradecimientos)
-4. [Contacto](#-contacto)
-
----
-
-## 📂 Estructura
-`
-Aprendiendo_HTML_CSS/
-├── card/                # Práctica de card básica
-│   ├── index.html
-│   └── style.css
-├── card-mejorada/       # Versión mejorada con efectos
-│   ├── index.html
-│   └── style.css
-└── README.md
-`
+2. [Agradecimientos](#-agradecimientos)
+3. [Contacto](#-contacto)
 
 ---
 
