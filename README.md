@@ -13,10 +13,9 @@ Repositorio con mis prácticas del curso de **HTML y CSS** de [Soy Dalto](https:
 
 ## 📌 Contenido
 1. [Estructura del repositorio](#-estructura)
-2. [Prácticas realizadas](#-prácticas-realizadas)
-3. [Cómo visualizar](#-cómo-visualizar)
-4. [Agradecimientos](#-agradecimientos)
-5. [Contacto](#-contacto)
+2. [Cómo visualizar](#-cómo-visualizar)
+3. [Agradecimientos](#-agradecimientos)
+4. [Contacto](#-contacto)
 
 ---
 
