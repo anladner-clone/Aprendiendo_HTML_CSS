@@ -14,7 +14,7 @@ Repositorio con mis prácticas del curso de **HTML y CSS** de [Soy Dalto](https:
 ## 🖥️ Cómo visualizar
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/ArielLadner/Aprendiendo_HTML_CSS.git
+git clone https://github.com/anladner-clone/Aprendiendo_HTML_CSS.git
 ```
 
 2. Abre cualquier práctica en tu navegador:
